@@ -9,7 +9,3 @@ An interactive desktop application built using Python, Tkinter, and Pandas to he
 
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/flashcard-app.git
-cd flashcard-app
